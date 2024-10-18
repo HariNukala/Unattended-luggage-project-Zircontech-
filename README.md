@@ -5,6 +5,8 @@ The project is implemented using YOLOv8 object and MiDaS for depth estimation.
 ## Requirements
 - Python 3.10 or later
 - Torch 2.4.0
+- Deepsort
+- YoloV8
 
 ## Installation
 1. Clone the repository
